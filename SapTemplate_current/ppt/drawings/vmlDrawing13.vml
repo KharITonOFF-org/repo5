@@ -23,7 +23,7 @@
    <v:f eqn="sum @10 21600 0"/>
   </v:formulas><v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
   <o:lock v:ext="edit" aspectratio="t"/>
- </v:shapetype><v:shape id="_x0000_s10424" type="#_x0000_t75" style='position:absolute;left:0pt;top:0pt;width:0pt;height:0pt'>
+ </v:shapetype><v:shape id="_x0000_s10426" type="#_x0000_t75" style='position:absolute;left:0pt;top:0pt;width:0pt;height:0pt'>
   <v:fill on="f"/>
   <v:stroke on="f"/>
   <v:imagedata o:relid="rId1" o:title="" grayscale="f" bilevel="f"/>
